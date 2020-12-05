@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hegic-tokenizer-front/static/css/main.a4fe9e24.chunk.css",
-    "main.js": "/hegic-tokenizer-front/static/js/main.dff33370.chunk.js",
-    "main.js.map": "/hegic-tokenizer-front/static/js/main.dff33370.chunk.js.map",
+    "main.js": "/hegic-tokenizer-front/static/js/main.ae069e27.chunk.js",
+    "main.js.map": "/hegic-tokenizer-front/static/js/main.ae069e27.chunk.js.map",
     "runtime-main.js": "/hegic-tokenizer-front/static/js/runtime-main.eff6d76d.js",
     "runtime-main.js.map": "/hegic-tokenizer-front/static/js/runtime-main.eff6d76d.js.map",
     "static/js/2.955c71a0.chunk.js": "/hegic-tokenizer-front/static/js/2.955c71a0.chunk.js",
     "static/js/2.955c71a0.chunk.js.map": "/hegic-tokenizer-front/static/js/2.955c71a0.chunk.js.map",
     "index.html": "/hegic-tokenizer-front/index.html",
-    "precache-manifest.7c7845080bd6050faaa39caec62ff5a2.js": "/hegic-tokenizer-front/precache-manifest.7c7845080bd6050faaa39caec62ff5a2.js",
+    "precache-manifest.0a34497440b5921346d0b429b1fdb9b9.js": "/hegic-tokenizer-front/precache-manifest.0a34497440b5921346d0b429b1fdb9b9.js",
     "service-worker.js": "/hegic-tokenizer-front/service-worker.js",
     "static/css/main.a4fe9e24.chunk.css.map": "/hegic-tokenizer-front/static/css/main.a4fe9e24.chunk.css.map",
     "static/js/2.955c71a0.chunk.js.LICENSE.txt": "/hegic-tokenizer-front/static/js/2.955c71a0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eff6d76d.js",
     "static/js/2.955c71a0.chunk.js",
     "static/css/main.a4fe9e24.chunk.css",
-    "static/js/main.dff33370.chunk.js"
+    "static/js/main.ae069e27.chunk.js"
   ]
 }

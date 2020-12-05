@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5313750d077f15c3a9a9a93867d677f2",
+    "revision": "976f8c1d3f9f72cbc33b52824df374b2",
     "url": "/hegic-tokenizer-front/index.html"
   },
   {
-    "revision": "6273a93b6021935e9356",
+    "revision": "541986fd10d97c1d1d77",
     "url": "/hegic-tokenizer-front/static/css/main.a4fe9e24.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hegic-tokenizer-front/static/js/2.955c71a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6273a93b6021935e9356",
-    "url": "/hegic-tokenizer-front/static/js/main.dff33370.chunk.js"
+    "revision": "541986fd10d97c1d1d77",
+    "url": "/hegic-tokenizer-front/static/js/main.ae069e27.chunk.js"
   },
   {
     "revision": "f58e4fe20bb7b277b9e3",

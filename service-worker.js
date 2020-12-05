@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hegic-tokenizer-front/precache-manifest.7c7845080bd6050faaa39caec62ff5a2.js"
+  "/hegic-tokenizer-front/precache-manifest.0a34497440b5921346d0b429b1fdb9b9.js"
 );
 
 self.addEventListener('message', (event) => {
