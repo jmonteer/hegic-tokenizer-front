@@ -1,0 +1,152 @@
+$hegic-green: #45fff4;
+$hegic-dark-blue: #121c36;
+$hegic-blue: #19274d;
+$hegic-defefe: #defefe;
+$hegic-yellow: #ffd24c;
+$hegic-red: #f76eb2;
+
+@import url('https://fonts.googleapis.com/css?family=Exo+2&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Jura:wght@700');
+
+$font-family-sans-serif: 'Exo 2';
+
+$primary: $hegic-green;
+$body-bg: $hegic-dark-blue;
+$card-bg: $hegic-blue;
+$card-border-color: $hegic-green;
+$card-color: $hegic-defefe;
+
+$nav-tabs-link-active-color: $hegic-green;
+$nav-tabs-link-active-bg: $hegic-blue;
+$nav-tabs-link-active-border-color: $hegic-green;
+
+$modal-content-color: $hegic-defefe;
+$modal-content-bg: $hegic-blue;
+$modal-header-border-color: $hegic-blue;
+$modal-footer-border-color: $hegic-blue;
+
+$table-border-color:$hegic-dark-blue;
+
+$input-bg: $hegic-blue;
+$input-color: $hegic-defefe;
+$input-border-color: $hegic-green;
+$input-border-radius: 0;
+$input-group-addon-bg: $hegic-blue;
+
+$input-disabled-bg:$hegic-dark-blue;
+
+$toast-color: $hegic-defefe;
+$toast-border-color: $hegic-green;
+$toast-background-color: $hegic-blue;
+$toast-header-color: $hegic-green;
+$toast-header-background-color: $hegic-blue;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+html {
+    overflow:hidden;
+}
+h6, h3, h4 {
+    font-family: 'Jura';
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.modal-dialog{
+    border: solid 1px $hegic-green;
+}
+
+.close {
+    color: $hegic-green;
+}
+
+thead th {
+    font-family: 'Exo 2';
+    font-weight: bold;
+    background-color: $hegic-dark-blue;
+}
+
+.table {
+    margin-top: 10px;
+}
+
+.profit-info-box {
+    padding:5px;
+    background: #24366b;
+    margin:1px;
+    width:50%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.input-button, .input-button:hover, .input-button.btn-secondary:hover{
+    font-weight: bold;
+    font-family: 'Jura';
+    letter-spacing: 0.1em;
+    background: $hegic-blue;
+    border-color: #45fff4;
+    border-image-slice: 20;
+    border-style: solid;
+    border-radius: 2px;
+    box-sizing: border-box;
+    border-image-width: 50px;
+}
+
+.main-button {
+    margin-top: 10px;
+    color: #15203d;
+    font-weight: bold;
+    font-family: 'Jura';
+    letter-spacing: 0.1em;
+    background: transparent;
+    border-image-source: url(https://www.hegic.co/assets/img/button-primary.svg);
+    border-image-slice: 20;
+    border-style: solid;
+    border-radius: 2px;
+    border-image-width: 50px;
+}
+
+.secondary-button, .secondary-button:hover {
+    font-weight: bold;
+    font-family: 'Jura';
+    letter-spacing: 0.1em;
+    border-radius: 0px;
+    background: $hegic-dark-blue;
+    color: $hegic-green;
+    border-color: $hegic-green;
+}
+
+.btn-secondary.disabled, .btn-secondary:disabled, .btn-secondary:hover, .btn-secondary.disabled:hover, .input-button.btn-secondary.disabled:hover {
+    color:$hegic-blue;
+    background-color: $hegic-blue;
+    border-color: $hegic-green;
+}
+
+.input-button.btn-secondary:hover {
+    color: #45fff4;
+}
+
+.statusMessage {
+    z-index: 9999999;
+    position: fixed;
+    min-width: 350px;
+    top: 70px;
+    right: 15px;
+}
+
+.modal-content {
+    font-size:14px;
+    text-align: center;
+}
+
+.modalDescription {
+    font-size: 12px;
+    line-height: normal;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input-group {
+    margin-top: 5px;
+}
